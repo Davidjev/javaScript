@@ -21,4 +21,3 @@ The code consists of the following components:
 - getComputerChoice(): A function that generates a random choice for the computer.  
 - getWinner(cChoice, pChoice = DEFAULT_USER_CHOICE): A function that compares the computer's choice with the player's choice and returns the winner.  
 - startGameBtn.addEventListener(): An event listener that starts the game when the "Start Game" button is clicked.  
-- 
